@@ -1,0 +1,29 @@
+.icon{
+text-decoration: none !important;
+font-size: 16px;
+width: 40%;
+}
+.searchbar{
+    margin: 0;
+   width: 30px;
+   height: 15px;
+   left: 20px;
+}
+.box{
+    margin: 5px;
+    width: 30%;
+
+}
+.button{
+    width: 80px;
+    float: right;
+    right: 20%;
+    background-color: black;
+   color: aliceblue;
+   border: 1px solid black;
+   border-radius: 15px;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+ 
+}
